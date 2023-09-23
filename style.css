@@ -1,0 +1,39 @@
+input{
+    
+    width:250px;
+    height: 40px;
+    display: block;
+  margin-block: 20px;
+}
+
+.checkbox{
+display: inline;
+height: 10px;
+width: 15px;
+}
+.h11{
+    color: red;
+}
+
+.radio{
+    display: inline;
+    height: 10px;
+    width: 15px;
+}
+.h1{
+    color: darkgoldenrod;
+}
+body{
+    background-color: lightblue;
+}
+.date{
+
+    width: 250px;
+    
+}
+
+.send{
+    background-color: blue;
+    color: white;
+    width: 100px;
+}
